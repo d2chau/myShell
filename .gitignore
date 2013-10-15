@@ -1,0 +1,5 @@
+# Ignore *.docx
+*.docx
+
+# Ignore *.pdf
+*.pdf
