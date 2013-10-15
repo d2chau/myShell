@@ -3,7 +3,6 @@ myShell
 d2chau
 10/11/2013
 
-README
 	The command line interpreter, called a shell, is an application program
 	that gets commands from a keyboard and uses the system call interfaces
 	to invoke OS functions.
@@ -17,6 +16,7 @@ IMPLEMENTATION DETAILS
 	64-bit machine.
 
 SHELL SUPPORT
+
 	(1) exit or stop shell commands
 	(2) Commands with no arguments
 	(3) Commands with arguments
@@ -27,6 +27,7 @@ SHELL SUPPORT
 		found
 
 FILES
+
 	(1) main.cpp
 	(2) shell.cpp
 	(3) shell.h
@@ -35,6 +36,7 @@ FILES
 	(6) readme.txt
 
 TO RUN
+
 	(1) Untar the hau1551.tar file by typing the following at the 
 	command prompt:
 
