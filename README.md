@@ -1,9 +1,7 @@
 myShell
 =======
-David Chau
+d2chau
 10/11/2013
-CSCI 3453 Operating Systems
-Lab-1
 
 README
 	The command line interpreter, called a shell, is an application program
@@ -11,6 +9,7 @@ README
 	to invoke OS functions.
 
 IMPLEMENTATION DETAILS
+	
 	Programming language:  C++
 	
 	This program was developed using Vmware ubuntu 12.04 and
